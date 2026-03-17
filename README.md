@@ -21,7 +21,6 @@ Each problem is categorized into folders like **Patterns, Strings, Arrays, Linke
 ---
 
 ## 🎯 Goals
-- Solve at least **1 DSA problem daily**  
 - Prepare for **coding interviews & competitive programming**  
 - Build a clean, structured resource for learners  
 
@@ -38,7 +37,7 @@ Each problem is categorized into folders like **Patterns, Strings, Arrays, Linke
 - [x] Day 7 – Reverse_Number(ARRAY)
 - [x] Day 8 – Calculate_Frequency_Of_Characters(HASHMAP)
 - [x] Day 9 – Fibonacci_Sequence(RECURSION)
-- [ ] Day 10 – ...
+- [x] Day 10 – ...
 - [ ] Day 11 – ...
 - [ ] Day 12 – ...
 - [ ] Day 13 – ...
@@ -135,3 +134,5 @@ Each problem is categorized into folders like **Patterns, Strings, Arrays, Linke
 
 This repo is mainly my personal practice,
 but if you find improvements or new approaches, feel free to open a PR .
+
+Testing YOLO achivement
